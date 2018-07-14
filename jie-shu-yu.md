@@ -3,4 +3,4 @@
 Robot framework只是提供了通用性的自动化测试框架，企业级应用应当基于框架，不断的完善类库与资源，相信能快速适配大多数的变化。
 
 知道我的类库足够多，我就足够强~
-<p align="right">zzqfsy</p>
+<p align="right">-zzqfsy</p>
