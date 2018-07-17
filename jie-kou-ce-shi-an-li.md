@@ -23,4 +23,4 @@ Get YuEBao Interest Rate
 ```
 robot xbao.robot
 ```
-![xbao](https://zzqfsy.github.io/image/robotframework/xbao.png)
+![xbao](https://zzqfsy.github.io/image/robotframework/xbao1.png)
